@@ -85,6 +85,7 @@ burn-sentinel-main/
 ├── tsconfig.json
 └── README.md
 ```
+---
 👨‍💻 Team Collaboration
 
 This project was developed collaboratively during the CSI KEC Student Branch Hackathon.
@@ -99,7 +100,7 @@ Harshith Kumar BS
 
 Arun KS
 
-
+---
 🏆 Hackathon Details
 
 Event: HackHub - CSI KEC Student Branch
@@ -107,7 +108,7 @@ Event: HackHub - CSI KEC Student Branch
 Project Theme: Sustainable Agriculture & Air Quality Monitoring
 
 Category: AI + Environmental Technology
-
+---
 💡 Note
 
 This project currently uses simulated/demo datasets for visualization and prediction purposes.
