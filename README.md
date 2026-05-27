@@ -84,7 +84,7 @@ burn-sentinel-main/
 ├── tailwind.config.ts
 ├── tsconfig.json
 └── README.md
-
+```
 👨‍💻 Team Collaboration
 
 This project was developed collaboratively during the CSI KEC Student Branch Hackathon.
