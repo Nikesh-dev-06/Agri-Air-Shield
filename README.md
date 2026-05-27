@@ -90,10 +90,15 @@ burn-sentinel-main/
 This project was developed collaboratively during the CSI KEC Student Branch Hackathon.
 
 Team Members
+
 Nikesh Babu S
+
 Adithya T
+
 Harshith Kumar BS
+
 Arun KS
+
 
 🏆 Hackathon Details
 Event: CSI KEC Student Branch Hackathon
