@@ -101,9 +101,13 @@ Arun KS
 
 
 🏆 Hackathon Details
-Event: CSI KEC Student Branch Hackathon
+
+Event: HackHub - CSI KEC Student Branch
+
 Project Theme: Sustainable Agriculture & Air Quality Monitoring
+
 Category: AI + Environmental Technology
 
 💡 Note
+
 This project currently uses simulated/demo datasets for visualization and prediction purposes.
