@@ -108,6 +108,7 @@ Event: HackHub - CSI KEC Student Branch
 Project Theme: Sustainable Agriculture & Air Quality Monitoring
 
 Category: AI + Environmental Technology
+
 ---
 💡 Note
 
